@@ -14,6 +14,7 @@ public class Main {
         album.setTitle("Fear of a Blank Planet");
         album.setYear(2007);
 
+
         ArrayList<Track> tracks = new ArrayList<>();
         tracks.add(new Track("Fear of a Blank Planet", 448));
         tracks.add(new Track("My Ashes", 307));
